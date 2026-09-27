@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=saurabh-dev012&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=saurabh-dev012&icon=1&color=4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=saurabh-dev012&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
